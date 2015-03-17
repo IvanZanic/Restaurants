@@ -1,7 +1,9 @@
 package ivan.activities.restaurants;
 
+import android.app.DialogFragment;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.media.Image;
 import android.os.AsyncTask;
 import android.support.v7.app.ActionBarActivity;
@@ -84,10 +86,11 @@ public class RestaurantsActivity extends ActionBarActivity {
         map.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
             @Override
             public void onInfoWindowClick(Marker marker) {
-
-                System.console();
+                DialogFragment eDialog = new EditDialog();
+                eDialog.show(getFragmentManager(), "editDialog");
             }
         });
+
     }
 
     public class CustomInfoWindow implements GoogleMap.InfoWindowAdapter {
@@ -113,7 +116,11 @@ public class RestaurantsActivity extends ActionBarActivity {
             View window = inflater.inflate(R.layout.custom_info_window, null);
             TextView name = (TextView) window.findViewById(R.id.name);
             TextView address = (TextView) window.findViewById(R.id.address);
+            TextView addressLabel = (TextView) window.findViewById(R.id.addressLabel);
             ImageView photo = (ImageView) window.findViewById(R.id.photo);
+
+            name.setTypeface(name.getTypeface(), Typeface.BOLD);
+            addressLabel.setTypeface(addressLabel.getTypeface(), Typeface.BOLD);
 
             name.setText(restaurant.getName());
             address.setText(restaurant.getAddress());

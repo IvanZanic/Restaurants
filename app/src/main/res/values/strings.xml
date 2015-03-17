@@ -6,5 +6,7 @@
     <string name="action_settings">Settings</string>
     <string name="AddNew">Add new</string>
     <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="ClickToEditLabel">Click to edit details.</string>
+    <string name="AddressLabel">Address:</string>
 
 </resources>
