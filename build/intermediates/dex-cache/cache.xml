@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ivan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.2/559b70ac8a0d5cad611da4223137a920147201ba/jackson-core-2.3.2.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="559b70ac8a0d5cad611da4223137a920147201ba">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/jackson-core-2.3.2-27811ac0a5ebb5316e891a75213ac639b3dbc02d.jar" />
+    </item>
+    <item
+        jar="/AndroidStudioProjects/Restaurants/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-407d8e171e5557120f603869ea50227af8638146.jar" />
+    </item>
+    <item
+        jar="/home/ivan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/f5e853a20b60758922453d56f9ae1e64af5cb3da/jackson-annotations-2.3.0.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="f5e853a20b60758922453d56f9ae1e64af5cb3da">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.3.0-fe89e0be86c5d36d808d5f4dbde3e3557e9dc42e.jar" />
+    </item>
+    <item
+        jar="/home/ivan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.2/c75edc740a6d8cb1cef6fa82fa594e0bce561916/jackson-databind-2.3.2.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="c75edc740a6d8cb1cef6fa82fa594e0bce561916">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/jackson-databind-2.3.2-e1601cca307fd6c5ca2449a68f4d52707283512e.jar" />
+    </item>
+    <item
+        jar="/AndroidStudioProjects/Restaurants/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/classes-be76fe7b3280a4cbe4d0ad7d412635b7d76a49b8.jar" />
+    </item>
+    <item
+        jar="/home/ivan/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-core/1.0.1.RELEASE/e68f0e8e4b636ee30c4de58953be38d9b72a5e3b/spring-android-core-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="e68f0e8e4b636ee30c4de58953be38d9b72a5e3b">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/spring-android-core-1.0.1.RELEASE-79d4634376d2d9803ca92c6b018a588963a7906d.jar" />
+    </item>
+    <item
+        jar="/AndroidStudioProjects/Restaurants/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/classes-6a3517526003a0bb7669790b20ca6ccd14bfef5b.jar" />
+    </item>
+    <item
+        jar="/AndroidStudioProjects/Restaurants/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/classes-82aa80e788f18aa7bfb58cf0b841530023c702b5.jar" />
+    </item>
+    <item
+        jar="/home/ivan/.gradle/caches/modules-2/files-2.1/org.springframework.android/spring-android-rest-template/1.0.1.RELEASE/e132d929bd181941f79b0d63edafb8a86ae6fd33/spring-android-rest-template-1.0.1.RELEASE.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="e132d929bd181941f79b0d63edafb8a86ae6fd33">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/spring-android-rest-template-1.0.1.RELEASE-23a8e07ca9fb571f6f861c7e3cfc361276cc262e.jar" />
+    </item>
+    <item
+        jar="/programs/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/AndroidStudioProjects/Restaurants/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3d502b0878cf896ba42b0d28ec1c52f9e0385e4a.jar" />
+    </item>
+
+</items>
